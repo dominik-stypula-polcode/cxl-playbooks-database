@@ -204,54 +204,6 @@
           }
         ]
       },
-
-      {
-        "version": "61678",
-        "author": "Kano Jackson",
-
-        "content": {
-          "cxl_get_extended_main": "<p>Version 61678: Monitor the profitability of your campaigns to track how they are meeting your business objectives.</p>"
-        },
-
-        "playbook_steps": [
-          {
-            "id": 1,
-            "title": "Version 61678: In Google Ads, click on Tools and Settings and select Conversions, then click the + button."
-          },
-          {
-            "id": 2,
-            "title": "Version 61678: Select the types of conversions that your business needs to track."
-          },
-          {
-            "id": 3,
-            "title": "Version 61678: For website conversions: Create a conversion action by completing the prompts on the following screen."
-          }
-        ]
-      },
-
-      {
-        "version": "223344",
-        "author": "Joel Chaikovsky",
-
-        "content": {
-          "cxl_get_extended_main": "<p>Version 223344: Monitor the profitability of your campaigns to track how they are meeting your business objectives.</p>"
-        },
-
-        "playbook_steps": [
-          {
-            "id": 1,
-            "title": "Version 223344: In Google Ads, click on Tools and Settings and select Conversions, then click the + button."
-          },
-          {
-            "id": 2,
-            "title": "Version 223344: Select the types of conversions that your business needs to track."
-          },
-          {
-            "id": 3,
-            "title": "Version 223344: For website conversions: Create a conversion action by completing the prompts on the following screen."
-          }
-        ]
-      },
       
     "conversionxl_certificate_sales_page": "https:\/\/cxl.com\/institute\/online-course\/ab-testing-mastery\/",
     "conversionxl_certificate_instructor": "Ton Wesseling",
