@@ -1,1 +1,304 @@
 
+  {
+    "id": 442534,
+
+    "title": {
+      "raw": "Set up Goal Tracking in Google Ads"
+    },
+
+    "featured_media": 1497178,
+
+    "categories_names": [
+      "Marketing", "Paid Advertising", "Tracking", "Goals", "Google Ads"
+    ],
+
+    "breadcrumbs": ["paid-advertising", "tracking", "goals", "google-ads"],
+
+    "versions": [
+      {
+        "version": "1234",
+        "author": "Samuel Jackson",
+        "upvotes": 10,
+
+        "content": {
+          "cxl_get_extended_main": "<p>Version 1234: Monitor the profitability of your campaigns to track how they are meeting your business objectives.</p>"
+        },
+
+        "playbook_steps": [
+          {
+            "id": 1,
+            "title": "Version 1234: In Google Ads, click on Tools and Settings and select Conversions, then click the + button."
+          },
+          {
+            "id": 2,
+            "title": "Version 1234: Select the types of conversions that your business needs to track."
+          },
+          {
+            "id": 3,
+            "title": "Version 1234: For website conversions: Create a conversion action by completing the prompts on the following screen."
+          },
+          {
+            "id": 4,
+            "title": "Version 1234: Set up the tag to add to your website."
+          },
+          {
+            "id": 5,
+            "title": "Version 1234: Create your App conversions."
+          },
+          {
+            "id": 6,
+            "title": "Phone Calls Conversions"
+          },
+          {
+            "id": 7,
+            "title": "Go to your Conversion tab and check Tracking Status to ensure the tracking is working."
+          },
+          {
+            "id": 8,
+            "title": "Periodically check your Conversions section to see if your goal tracking still has a status of Recording Conversions or No Recent Conversions."
+          }
+        ]
+      },
+
+      {
+        "version": "5679",
+        "author": "Joe Wallnut",
+        "upvotes": 15,
+
+        "content": {
+          "cxl_get_extended_main": "<p>Version 5679: Monitor the profitability of your campaigns to track how they are meeting your business objectives.</p>"
+        },
+
+        "playbook_steps": [
+          {
+            "id": 1,
+            "title": "Version 5679: In Google Ads, click on Tools and Settings and select Conversions, then click the + button."
+          },
+          {
+            "id": 2,
+            "title": "Version 5679: Select the types of conversions that your business needs to track."
+          },
+          {
+            "id": 3,
+            "title": "Version 5679: For website conversions: Create a conversion action by completing the prompts on the following screen."
+          }
+        ]
+      },
+
+      {
+        "version": "5680",
+        "author": "Hanna Marks",
+        "upvotes": 10,
+
+        "content": {
+          "cxl_get_extended_main": "<p>Version 5680: Monitor the profitability of your campaigns to track how they are meeting your business objectives.</p>"
+        },
+
+        "playbook_steps": [
+          {
+            "id": 1,
+            "title": "Version 5680: In Google Ads, click on Tools and Settings and select Conversions, then click the + button."
+          },
+          {
+            "id": 2,
+            "title": "Version 5680: Select the types of conversions that your business needs to track."
+          },
+          {
+            "id": 3,
+            "title": "Version 5680: For website conversions: Create a conversion action by completing the prompts on the following screen."
+          }
+        ]
+      },
+
+      {
+        "version": "5777",
+        "author": "Barbara Rowling-Smith",
+        "upvotes": 109,
+
+        "content": {
+          "cxl_get_extended_main": "<p>Version 5777: Monitor the profitability of your campaigns to track how they are meeting your business objectives.</p>"
+        },
+
+        "playbook_steps": [
+          {
+            "id": 1,
+            "title": "Version 5777: In Google Ads, click on Tools and Settings and select Conversions, then click the + button."
+          },
+          {
+            "id": 2,
+            "title": "Version 5777: Select the types of conversions that your business needs to track."
+          },
+          {
+            "id": 3,
+            "title": "Version 5777: For website conversions: Create a conversion action by completing the prompts on the following screen."
+          }
+        ]
+      },
+
+      {
+        "version": "5888",
+        "author": "Nathan Mikes",
+        "upvotes": 55,
+
+        "content": {
+          "cxl_get_extended_main": "<p>Version 5888: Monitor the profitability of your campaigns to track how they are meeting your business objectives.</p>"
+        },
+
+        "playbook_steps": [
+          {
+            "id": 1,
+            "title": "Version 5888: In Google Ads, click on Tools and Settings and select Conversions, then click the + button."
+          },
+          {
+            "id": 2,
+            "title": "Version 5888: Select the types of conversions that your business needs to track."
+          },
+          {
+            "id": 3,
+            "title": "Version 5888: For website conversions: Create a conversion action by completing the prompts on the following screen."
+          }
+        ]
+      },
+
+      {
+        "version": "5999",
+        "author": "George W. Bash",
+        "upvotes": 77,
+
+        "content": {
+          "cxl_get_extended_main": "<p>Version 5999: Monitor the profitability of your campaigns to track how they are meeting your business objectives.</p>"
+        },
+
+        "playbook_steps": [
+          {
+            "id": 1,
+            "title": "Version 5999: In Google Ads, click on Tools and Settings and select Conversions, then click the + button."
+          },
+          {
+            "id": 2,
+            "title": "Version 5999: Select the types of conversions that your business needs to track."
+          },
+          {
+            "id": 3,
+            "title": "Version 5999: For website conversions: Create a conversion action by completing the prompts on the following screen."
+          }
+        ]
+      },
+
+      {
+        "version": "6677",
+        "author": "Barnack Obama",
+        "upvotes": 3,
+
+        "content": {
+          "cxl_get_extended_main": "<p>Version 6677: Monitor the profitability of your campaigns to track how they are meeting your business objectives.</p>"
+        },
+
+        "playbook_steps": [
+          {
+            "id": 1,
+            "title": "Version 6677: In Google Ads, click on Tools and Settings and select Conversions, then click the + button."
+          },
+          {
+            "id": 2,
+            "title": "Version 6677: Select the types of conversions that your business needs to track."
+          },
+          {
+            "id": 3,
+            "title": "Version 6677: For website conversions: Create a conversion action by completing the prompts on the following screen."
+          }
+        ]
+      },
+
+      {
+        "version": "61678",
+        "author": "Kano Jackson",
+        "upvotes": 32,
+
+        "content": {
+          "cxl_get_extended_main": "<p>Version 61678: Monitor the profitability of your campaigns to track how they are meeting your business objectives.</p>"
+        },
+
+        "playbook_steps": [
+          {
+            "id": 1,
+            "title": "Version 61678: In Google Ads, click on Tools and Settings and select Conversions, then click the + button."
+          },
+          {
+            "id": 2,
+            "title": "Version 61678: Select the types of conversions that your business needs to track."
+          },
+          {
+            "id": 3,
+            "title": "Version 61678: For website conversions: Create a conversion action by completing the prompts on the following screen."
+          }
+        ]
+      },
+
+      {
+        "version": "223344",
+        "author": "Joel Chaikovsky",
+        "upvotes": 55,
+
+        "content": {
+          "cxl_get_extended_main": "<p>Version 223344: Monitor the profitability of your campaigns to track how they are meeting your business objectives.</p>"
+        },
+
+        "playbook_steps": [
+          {
+            "id": 1,
+            "title": "Version 223344: In Google Ads, click on Tools and Settings and select Conversions, then click the + button."
+          },
+          {
+            "id": 2,
+            "title": "Version 223344: Select the types of conversions that your business needs to track."
+          },
+          {
+            "id": 3,
+            "title": "Version 223344: For website conversions: Create a conversion action by completing the prompts on the following screen."
+          }
+        ]
+      },
+
+      {
+        "version": "665555",
+        "author": "Bruce Markinson",
+        "upvotes": 76,
+
+        "content": {
+          "cxl_get_extended_main": "<p>Version 665555: Monitor the profitability of your campaigns to track how they are meeting your business objectives.</p>"
+        },
+
+        "playbook_steps": [
+          {
+            "id": 1,
+            "title": "Version 665555: In Google Ads, click on Tools and Settings and select Conversions, then click the + button."
+          },
+          {
+            "id": 2,
+            "title": "Version 665555: Select the types of conversions that your business needs to track."
+          },
+          {
+            "id": 3,
+            "title": "Version 665555: For website conversions: Create a conversion action by completing the prompts on the following screen."
+          }
+        ]
+      }
+    ],
+
+
+    "conversionxl_certificate_sales_page": "https:\/\/cxl.com\/institute\/online-course\/ab-testing-mastery\/",
+    "conversionxl_certificate_instructor": "Ton Wesseling",
+    "conversionxl_live_course_duration": "8h",
+    "cxl_hybrid_attr_post": {
+      "@attributes": {
+        "class": "entry author-maddie-sidoff-3 has-more-link post-442534 certificate type-certificate status-publish has-post-thumbnail category-online-trainings membership-content access-granted format-previously live column pure-u-1 pure-u-sm-1-2 pure-u-lg-1-3",
+        "itemscope": "itemscope",
+        "itemtype": "http:\/\/schema.org\/CreativeWork",
+        "id": "post-442534"
+      }
+    },
+    "cxl_featured_media": {
+      "shop_catalog": "https:\/\/cxl.com\/institute\/wp-content\/uploads\/2017\/12\/ton-wesseling-1x1-bw-transparent-150x150.png"
+    }
+  }
